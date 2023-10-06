@@ -2,4 +2,4 @@
 Basic Github usage and funnctionalities
 
 ## Part 1:
-This is our first step to havingna nnon-empty repository.
+This is our first step to havingna non-empty repository.
